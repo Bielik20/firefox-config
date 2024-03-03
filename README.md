@@ -15,6 +15,5 @@ Sidebery configuration for Firefox based on:
 ### Sidebery
 
 1. Open Sidebery settings
-2. Go to `Help`
-3. Click `Import addon data` -> `/sidebery/settings.json`
-4. Click `Import addon data` -> `/sidebery/styles.json`
+2. Go to `Help` -> Click `Import addon data` -> `/sidebery/settings.json`
+3. Go to `Styles editor` -> paste content of `/sidebery/styles.css` to editor tab
