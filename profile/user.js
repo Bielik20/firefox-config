@@ -281,7 +281,6 @@ user_pref("layout.css.has-selector.enabled", true);
 user_pref("uc.tweak.rounded-corners", true);
 user_pref("uc.tweak.hide-tabs-bar", true);
 user_pref("uc.tweak.disable-drag-space", true);
-user_pref("uc.tweak.translucent-window", true);
 
 /****************************************************************************
  * END: Edge-Frfox                                                           *
