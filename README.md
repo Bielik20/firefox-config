@@ -22,6 +22,8 @@ Sidebery configuration for Firefox based on:
 
 https://www.reddit.com/r/Floorp/comments/1b1tqsd/possible_to_remove_the_thin_black_bar_at_the_top/
 
+* [Theme](https://addons.mozilla.org/en-US/firefox/addon/finnstheme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 ### Shortcuts
 
 https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
@@ -35,3 +37,4 @@ https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-qu
 * [Library] cmd + y -> [Redo]
 * [Go one Tab to the Left/Right] -> (clear)
 * [Save Page As] cmd + s -> (clear) / set to toggle sidebery (sidebar) just like Arc
+
