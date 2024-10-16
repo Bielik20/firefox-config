@@ -5,6 +5,21 @@ Sidebery configuration for Firefox based on:
 - https://github.com/yokoffing/Betterfox
 - https://github.com/bmFtZQ/edge-frfox
 - https://github.com/artsyfriedchicken/EdgyArc-fr
+- https://github.com/KiKaraage/ArcWTF
+- https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css)
+
+## Prerequisites
+
+- Theme: https://addons.mozilla.org/en-US/firefox/addon/finnstheme/
+- Sidebery: https://github.com/mbnuqw/sidebery
+
+Recommended:
+
+- Bitwarden
+- uBlock Origin
+  - Go to "Filter lists" and check "AdGourd/uBO - Cookie Notices"
+- Raindrop.io
+- Wikiwand
 
 ## Installation:
 
@@ -21,8 +36,6 @@ Sidebery configuration for Firefox based on:
 ### Floorp
 
 https://www.reddit.com/r/Floorp/comments/1b1tqsd/possible_to_remove_the_thin_black_bar_at_the_top/
-
-* [Theme](https://addons.mozilla.org/en-US/firefox/addon/finnstheme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ### Shortcuts
 

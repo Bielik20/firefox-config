@@ -1,14 +1,8 @@
 /* Edge-Frfox - tweaks/hide-tabs-bar.css
  * https://github.com/bmFtZQ/edge-frfox */
 
-/* Only hide the tabs toolbar if one of the following sidebar extensions is
- * active: */
-/* Sidebery */
-:root:not([customizing]):has(#sidebar-box[sidebarcommand="_3c078156-979c-498b-8990-85f7987dd929_-sidebar-action"]:not([hidden])),
-/* Tree Style Tab */
-:root:not([customizing]):has(#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"]:not([hidden])),
-/* Tab Center Reborn */
-:root:not([customizing]):has(#sidebar-box[sidebarcommand="tabcenter-reborn_ariasuni-sidebar-action"]:not([hidden])) {
+/* Only hide the tabs toolbar if sidebar is active: */
+:root:not([customizing]):has(#sidebar-box:not([hidden])) {
   /* Height of navbar, used for determining height and position of window controls */
   --uc-navbar-height: 38px;
   /* Drag space next to the window controls, allows you to move the window more easily */
