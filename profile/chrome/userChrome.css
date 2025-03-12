@@ -1,3 +1,3 @@
 @import url("global/tweaks.css");
 @import url("tweaks/adjust-sidebar.css");
-@import url("tweaks/hide-tabs-bar.css") (-moz-bool-pref: "uc.tweak.hide-tabs-bar");
+@import url("tweaks/hide-tabs-bar.css");
