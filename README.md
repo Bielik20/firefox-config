@@ -7,6 +7,8 @@ Sidebery configuration for Firefox based on:
 - https://github.com/artsyfriedchicken/EdgyArc-fr
 - https://github.com/KiKaraage/ArcWTF
 - https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css)
+- https://github.com/akkva/gwfox
+- https://github.com/tahfizhabib/gwfox-css
 
 ## Prerequisites
 
