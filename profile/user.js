@@ -239,6 +239,9 @@ user_pref("gfx.canvas.accelerated", true);
 // UTIL: quality of life
 user_pref("browser.sessionstore.resume_session_once", true);
 user_pref("browser.toolbars.bookmarks.visibility", 'never');
+// Sidebar
+user_pref("sidebar.revamp", false);
+user_pref("sidebar.verticalTabs", false);
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
